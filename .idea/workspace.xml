@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f12bbf1-fe4b-42e6-b255-4a6200f81d12" name="Changes" comment="Primeira tentativa de publicacao no Railway" />
+    <list default="true" id="7f12bbf1-fe4b-42e6-b255-4a6200f81d12" name="Changes" comment="Atualizando procfile">
+      <change beforePath="$PROJECT_DIR$/src/main/java/matheus/edu/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/matheus/edu/Application.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +29,17 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="santander-dev-week-2023" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="santander-dev-week-2023" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="santander-dev-week-2023" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -191,13 +204,22 @@
       <option name="project" value="LOCAL" />
       <updated>1747603605987</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Atualizando procfile">
+      <option name="closed" value="true" />
+      <created>1747604977701</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747604977701</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Implementação na camada de Domínio" />
     <MESSAGE value="Adicionado código para a API com base no projeto da santander week 2023" />
     <MESSAGE value="Primeira tentativa de publicacao no Railway" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeira tentativa de publicacao no Railway" />
+    <MESSAGE value="Atualizando procfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizando procfile" />
   </component>
 </project>
