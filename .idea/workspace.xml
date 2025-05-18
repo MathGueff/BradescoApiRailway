@@ -106,11 +106,11 @@
     </configuration>
     <configuration name="Application PRD" type="Application" factoryName="Application">
       <envs>
-        <env name="PGDATABASE" value="railway       " />
+        <env name="PGDATABASE" value="railway" />
         <env name="PGHOST" value="postgres.railway.internal" />
         <env name="PGPASSWORD" value="mXarEQeJHWWWSNcsgwhMDzzzTbRueBGW" />
-        <env name="PGPORT" value="5432        " />
-        <env name="PGUSER" value="postgres    " />
+        <env name="PGPORT" value="5432" />
+        <env name="PGUSER" value="postgres" />
         <env name="SPRING_PROFILES_ACTIVE" value="prd" />
       </envs>
       <option name="MAIN_CLASS_NAME" value="matheus.edu.Application" />
